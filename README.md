@@ -8,6 +8,7 @@
 - 사용언어 : Swift
 - 담당분야 : Firebase 번역 API로 번역 기능 구현, 전체적인 UI 구현, Firebase를 이용 채팅 구현, 문자 번역
 - 시연영상 : https://www.youtube.com/watch?v=FzjLj-RyJ_A&t=40s
+- 코드 : https://github.com/danbin920404/SCTranslateProj
 
 ### 구현 내용
 
@@ -29,9 +30,10 @@
 - `AVFoundation Framework`:  Text To Speech 기능 구현
 - `Speech Framework`: Speech To Text 기능 구현
 
-##### 3. 개방 주요 특이사항
+##### 3. 개발 주요 특이사항
 
 - No Storyboard, Only Code Development
+- autolayout
 
 <img src="https://github.com/danbin920404/MyPortfolio/blob/main/SCTranslationImages/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202020-10-15%20%EC%98%A4%ED%9B%84%205.33.15.png" width="100%" height="350">
 
@@ -43,7 +45,8 @@
 - 개발인원 : 1명
 - 사용언어 : Swift
 - 당담부분 : 전체
-- 시연영상 : 
+- 시연영상 : https://www.youtube.com/watch?v=t14Riv0KT5g&list=PLF1yVh0AvRtjPkPgbOfDg0RkDJxQu6ohm&index=1
+- 코드: https://github.com/danbin920404/WeatherApp
 
 ### 구현 내용
 
@@ -53,13 +56,17 @@
 - TableVIew를 이용
 - 애니메이션 이용
 
-##### 2. 사용 라이브러리
+##### 2. 사용 라이브러리 및 프레임워크
 
-- 없음
+- `CoreLocation` 사용
+- `SnapKit` 사용
 
-##### 3. 개방 주요 특이사항
+##### 3. 개발 주요 특이사항
 
 - No Storyboard, Only Code Development
+- autolayout
+
+<img src="https://github.com/danbin920404/MyPortfolio/blob/main/WeatherAppImage/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202020-10-18%20%EC%98%A4%EC%A0%84%201.57.55.png" width="100%" height="350">
 
 -----
 
@@ -74,6 +81,7 @@
 - 당담부분 : 메인 뷰, 상세페이지, 채팅하기 구현
 - B급장터 소개 영상 : https://www.youtube.com/watch?v=y0CsgbG18wc
 - 시연영상 : https://www.youtube.com/watch?v=ogybTfhysNA
+- 코드 : https://github.com/danbin920404/2020AngelHack
 
 ### 구현 내용
 
@@ -85,9 +93,12 @@
 
 - 없음
 
-##### 3. 개방 주요 특이사항
+##### 3. 개발 주요 특이사항
 
 - No Storyboard, Only Code Development
+- autolayout
+
+<img src="https://github.com/danbin920404/MyPortfolio/blob/main/B%EA%B8%89%EC%9E%A5%ED%84%B0Image/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202020-10-18%20%EC%98%A4%EC%A0%84%204.26.24.png" width="100%" height="800">
 
 -----
 
@@ -98,6 +109,7 @@
 - 사용언어 : Swift
 - 당담부분 : 모두
 - 시연영상 : https://www.youtube.com/watch?v=jz_sIyUgOGQ
+- 코드: https://github.com/danbin920404/TIL/tree/master/SwiftProgrammingPractice/Domino
 
 ### 구현 내용
 
@@ -113,9 +125,10 @@
 
 - 없음
 
-##### 3. 개방 주요 특이사항
+##### 3. 개발 주요 특이사항
 
 - No Storyboard, Only Code Development
+- autolayout
 
 <img src="https://github.com/danbin920404/MyPortfolio/blob/main/DominoImages/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202020-10-15%20%EC%98%A4%ED%9B%84%206.17.39.png" width="100%" height="800">
 
