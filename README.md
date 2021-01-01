@@ -134,11 +134,41 @@
 
 -----
 
+## 6. 붕세권
 
+- 개발인원 : 1명
+- 사용언어 : Swift
+- 담당분야 : 모두
+- 시연영상 : https://youtu.be/6GW7BFGoEao
+- 코드 : https://github.com/danbin920404/SCTranslateProj
 
+### 구현 내용
 
+##### 1. 구현 기능
 
+- 네이버맵에서 유저들이 등록한 위치를 확인
+- 등록하고 싶은 가게를 등록
+- 상세페이지에서 댓글, 찜, 수정 가능
+- 마이페이지에서 내가찜한 가게, 내가 등록한 가게, 내가 쓴 댓글 확인 가능 및 삭제 가능
+- 개발자에게 이메일 문의 가능
+- 로그인 및 닉네임, 닉네임 수정
+- 카카오 우편번호 서비스로 위치 검색
 
+##### 2. 사용 라이브러리
+
+- SnapKit
+- NMapsMap
+- FBSDKLoginKit (페이스북 측에 앱 인증을 안 받아서 일단 보류 - 기능 구현은 완료)
+- Firebase/Firestore
+- Firebase/Auth
+- GoogleSignIn
+
+##### 3. 개발 주요 특이사항
+
+- No Storyboard, Only Code Development
+- autolayout
+
+<img src="https://github.com/danbin920404/MyPortfolio/blob/main/BungsegwonImage/Bungsegwon.png">
 
 
 
