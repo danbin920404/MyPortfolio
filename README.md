@@ -140,7 +140,7 @@
 - 사용언어 : Swift
 - 담당분야 : 모두
 - 시연영상 : https://youtu.be/6GW7BFGoEao
-- 코드 : https://github.com/danbin920404/SCTranslateProj
+- 코드 : https://github.com/danbin920404/BungsegwonPortfolio
 
 ### 구현 내용
 
