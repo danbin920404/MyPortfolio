@@ -139,6 +139,7 @@
 - 개발인원 : 1명
 - 사용언어 : Swift
 - 담당분야 : 모두
+- 앱스토어 출시
 - 시연영상 : https://youtu.be/6GW7BFGoEao
 - 코드 : https://github.com/danbin920404/BungsegwonPortfolio
 
