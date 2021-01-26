@@ -2,6 +2,23 @@
 
 -----
 
+## [경험요약및핵심보유역량]
+```
+- Swift와 UIKit을 활용한 iOS Application 개발 경험 
+- Git을 통한 버전 관리 및 협업 경험 
+- AutoLayout
+- MVC및MVVM아키텍쳐에 대한 기초지식 보유
+- Cocoapods, SPM을 이용한 라이브러리 추가 및 활용 경험
+- OPEN API 사용 경험(블로그페이(쇼핑몰), 공공 휴일 데이터 API 등)
+- 파이어베이스 경험
+- 자료구조에 대한 기초 지식 보유(Stack, Queue, etc...)
+- 적극적인 코드 개선 및 코드 리뷰 태도
+- 꾸준한 학습과 인내심 그리고 책임감 보유
+- 앱스토어에 배포 경험 - 붕세권 -
+```
+
+-----
+
 ## 1. 문자, 음성 번역과 번역 채팅
 
 - 개발인원 : 2명
@@ -98,44 +115,14 @@
 - No Storyboard, Only Code Development
 - autolayout
 
-<img src="https://github.com/danbin920404/MyPortfolio/blob/main/B%EA%B8%89%EC%9E%A5%ED%84%B0Image/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202020-10-18%20%EC%98%A4%EC%A0%84%204.26.24.png" width="100%" height="800">
+<img src="https://github.com/danbin920404/MyPortfolio/blob/main/B%EA%B8%89%EC%9E%A5%ED%84%B0Image/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202020-10-18%20%EC%98%A4%EC%A0%84%204.26.24.png" width="800" height="550">
 
 -----
 
 
-## 4. 도미노피자 App
+## 4. 붕세권
 
-- 개발인원 : 1명
-- 사용언어 : Swift
-- 당담부분 : 모두
-- 시연영상 : https://www.youtube.com/watch?v=jz_sIyUgOGQ
-- 코드: https://github.com/danbin920404/TIL/tree/master/SwiftProgrammingPractice/Domino
-
-### 구현 내용
-
-##### 1. 구현 기능
-
-- CategoryViewController 에서 logo 는 TableView 의 .tableHeaderView 속성을 활용 하여 구현
-- 각 ViewController 에 NavigationController 의 Title 이 보여지도록 구현 DetailViewController 에서 추가된 정보를 WishListViewController 에서 확인할 수 있도
-록 구현
-- WishListController 에서 ‘목록 지우기’와 ‘주문’ 버튼을 눌렀을때 DetailViewController 에 서도 반영되도록 구현
-- WishListController ‘주문’ 버튼을 눌렀을때 AlertController 를 화면과 같이 구현
-
-##### 2. 사용 라이브러리
-
-- 없음
-
-##### 3. 개발 주요 특이사항
-
-- No Storyboard, Only Code Development
-- autolayout
-
-<img src="https://github.com/danbin920404/MyPortfolio/blob/main/DominoImages/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202020-10-15%20%EC%98%A4%ED%9B%84%206.17.39.png" width="100%" height="800">
-
------
-
-## 6. 붕세권
-
+- 디자이너 : 1명
 - 개발인원 : 1명
 - 사용언어 : Swift
 - 담당분야 : 모두
@@ -170,8 +157,6 @@
 - autolayout
 
 <img src="https://github.com/danbin920404/MyPortfolio/blob/main/BungsegwonImage/Bungsegwon.png">
-
-
 
 
 
